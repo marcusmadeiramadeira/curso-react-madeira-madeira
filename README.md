@@ -17,7 +17,7 @@ Instrutor: **William Novak** _<<williamnvk@gmail.com>>_
 - _JSX_.
 - _Arrow Functions_ Parte I.
 - _Spread Operator_.
-- _PropTypes_.
+- _Import_, _Export_ & _Default Export_.
 
 #### Aula #2
 
@@ -37,7 +37,8 @@ Instrutor: **William Novak** _<<williamnvk@gmail.com>>_
 
 #### Aula #4 (opcional)
 
-- _Component Life Cycles Parte_ II.
+- _PropTypes_.
+- _Component Life Cycles_ Parte II.
 - _CSS-in-JS_.
 - _Generators_.
 - _Redux Saga_.

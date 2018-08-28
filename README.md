@@ -15,7 +15,7 @@ Instrutor: **William Novak** _<<williamnvk@gmail.com>>_
 - _CONST_ & _LET_.
 - _Object Literal Syntax_.
 - _JSX_.
-- _Arrow Functions_ & _Function Declaration_.
+- _Arrow Functions_ Parte I.
 - _Spread Operator_.
 - _PropTypes_.
 
@@ -24,6 +24,7 @@ Instrutor: **William Novak** _<<williamnvk@gmail.com>>_
 - _React Router_.
 - Reconstruindo o e-commerce da Madeira Madeira (_SPA_) Parte I.
 - _Redux_: _Actions_, _Reducers_ e _Connected Components_.
+- _Arrow Functions_ Parte II.
 - _Component Life Cycles_ Parte I.
 - _Object Destructuring_.
 - _Promises_.
@@ -66,6 +67,7 @@ Instrutor: **William Novak** _<<williamnvk@gmail.com>>_
 ---
 
 **Madeira Madeira, Sala Steve Jobs (3º andar)**
+
 R. Mal. Deodoro, 717 - Centro, Curitiba - PR, 80010-010
 
 ### Observações
@@ -75,5 +77,5 @@ R. Mal. Deodoro, 717 - Centro, Curitiba - PR, 80010-010
 - A carga horária total do curso é de 8 (oito) horas, sendo 4 (quatro) aulas de 2 (duas) horas de duração.
 - Não será emitido certificado ao final do curso.
 - A aula 4 (quatro) é opcional, pois a aplicação será concluída na aula 3 (três).
-- 80% (oitenta por centro) do conteúdo são funcionalidades do `ECMAScript 6`+ (`Javascript 2015`+).
+- 80% (oitenta por cento) do conteúdo são funcionalidades do `ECMAScript 6`+ (`Javascript 2015`+).
 - Outras opções além do `Webpack` é `Gulp` ou `Grunt`, mas o curso irá ser especificamente em cima do `Webpack`.

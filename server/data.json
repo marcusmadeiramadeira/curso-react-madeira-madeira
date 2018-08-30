@@ -1,0 +1,40 @@
+{
+  "catalog": [
+    {
+      "id": 1232,
+      "category": 1,
+      "name": "Guarda Roupa Casal 3 Portas 6 Gavetas Milano Nobre Maxel Branco",
+      "value": 892.9,
+      "thumb": "https://img1.madeiramadeira.com.br/prd/maxel/283410/tn_guarda-roupa-casal-3-portas-6-gavetas-branco-127528_desc.jpg",
+      "zoom": "https://img1.madeiramadeira.com.br/prd/maxel/283410/guarda-roupa-casal-3-portas-6-gavetas-branco-127528_zoom.jpg",
+      "description": "O Guarda Roupa Casal 3 Portas 6 Gavetas Milano é para perfeito para casais, amplo espaço interno e bem dividido, divisão ele e ela. Os varões são em alumínio ou seja mais resistente contra aranhões, as 3 portas de correr possuem roldanas com regulagens para melhorar o alinhamento da porta. No padrão de cor Ipê/Vanilla possui a opção de montagem flex onde as portas são pintadas em ambos os lados e você escolhe a cor que preferir."
+    },
+    {
+      "id": 2232,
+      "category": 1,
+      "name": "Guarda Roupa Casal 3 Portas de Correr Smart Siena Móveis Branco",
+      "value": 375.9,
+      "thumb": "https://img1.madeiramadeira.com.br/banner/images/45829840-reloginho-normal-1000x30.png",
+      "zoom": "https://img1.madeiramadeira.com.br/prd/maxel/255657/guarda-roupa-casal-com-espelho-3-portas-de-correr-smart-branco-72092_zoom.jpg",
+      "description": "O Guarda Roupa Smart é um produto com design inovador, que se adapta aos mais diversos estilos de dormitórios. Produzido em 100% MDP, material ecologicamente correto e que oferece maior resistência e durabilidade. O produto possui amplo espaço interno, acompanhado de 3 gavetas, 2 cabideiros de madeira com acabamento na cor cinza e local para calçados na parte inferior."
+    },
+    {
+      "id": 2363,
+      "category": 1,
+      "name": "Guarda Roupa Casal com Espelho 3 Portas de Correr Smart Siena Móveis Branco",
+      "value": 422.9,
+      "thumb": "https://img1.madeiramadeira.com.br/prd/maxel/255657/tn_guarda-roupa-casal-com-espelho-3-portas-de-correr-smart-branco-72092_desc.jpg",
+      "zoom": "https://img1.madeiramadeira.com.br/prd/maxel/255657/guarda-roupa-casal-com-espelho-3-portas-de-correr-smart-branco-72092_zoom.jpg",
+      "description": "O Guarda Roupa Smart é ideal para deixar o seu ambiente ainda mais bonito! feito em MDP com portas de correr, o produto possui amplo espaço interno, acompanhado de 3 gavetas, cabideiro e calceiro além de um local exclusivo para calçados na parte inferior."
+    },
+    {
+      "id": 6412,
+      "category": 2,
+      "name": "Guarda Roupa Casal com Espelho 3 Portas de Correr Flórida Siena Móveis Branco",
+      "value": 770.7,
+      "thumb": "https://img1.madeiramadeira.com.br/prd/carioca-moveis/178963/tn_guarda-roupa-casal-com-espelho-3-portas-florida-siena-moveis-branco-90-170223_desc.jpg",
+      "zoom": "https://img1.madeiramadeira.com.br/prd/carioca-moveis/178963/guarda-roupa-casal-com-espelho-3-portas-florida-siena-moveis-branco-90-170223_zoom.jpg",
+      "description": "Guarda Roupa com maior resistência, durabilidade e acabamento, revestimento interno e externo: Pintura em estufas modernas com UV (ultra violeta), são túneis que secam os produtos através de lâmpadas especiais que reproduzem artificialmente os raios ultravioletas do sol. Modelo com corrediça metálica em aço, 4 gavetas espaçosas, perfil em alumínio, roldanas de aço carbono com rolamento, divisão ele/ela."
+    }
+  ]
+}
